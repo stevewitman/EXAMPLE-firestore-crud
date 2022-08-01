@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-65f97": {
+      "hosting": {
+        "firestore-crud": [
+          "crud-65f97"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-65f97"
+  }
+}
